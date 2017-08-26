@@ -1,0 +1,25 @@
+.title {
+  font-size:60px;
+}
+
+.subtitle {
+  font-size:28px;
+}
+
+.bio {
+  background-color: #e1e1e1;
+  border-radius: 5px;
+  margin: 40px 150px 40px 150px !important;
+  padding: 60px 60px 60px 60px;
+}
+
+.thumb {
+  margin-top: 50px;
+  background-color:white;
+  border-radius:5px;
+}
+
+.info {
+  margin-left:150px !important;
+  margin-right:150px !important;
+}
